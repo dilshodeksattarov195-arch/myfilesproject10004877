@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authdncrypt",
+        "uuid": 27169767,
+        "checksum": "isgxbt"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
